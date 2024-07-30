@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yanni</h1>
-<h3 align="center">I am developer foucuing on cloud and database technique</h3>
+<h3 align="center">I am developer focusing on cloud and database technique</h3>
 
 - 💬 Ask me about **Kubernetes, Golang, PostgreSQL**
 
